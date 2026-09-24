@@ -1,6 +1,5 @@
  
 
-export const runtime = "edge";
 
 import {notFound} from 'next/navigation';
 
