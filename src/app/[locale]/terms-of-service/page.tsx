@@ -1,4 +1,3 @@
-export const runtime = "edge";
 
 import { getCategories } from "@/actions";
 import { Locale } from "@/i18n/routing";

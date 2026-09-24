@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "build:pages": "npx --yes @cloudflare/next-on-pages@1",
+    "build:pages": "opennextjs-cloudflare build",
     "start": "next start --port 3336",
     "lint": "next lint",
     "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
